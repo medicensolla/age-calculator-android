@@ -10,4 +10,5 @@
     <color name="textBlue">#264653</color>
     <color name="backgroundColor">#e9c46a</color>
     <color name="backgroundButtonColor">#2a9d8f</color>
+    <color name="lightGrey">#b7b7a4</color>
 </resources>
